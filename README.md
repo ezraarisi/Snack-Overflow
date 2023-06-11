@@ -1,4 +1,4 @@
-# # Snack Overflow
+## Snack Overflow
 
 Welcome to Snack Overflow, a delightful project showcasing a restaurant that specializes in serving mouthwatering snacks! This repository contains all the code and resources related to the Snack Overflow website, where users can explore the menu, place orders, and satisfy their snack cravings.
 
